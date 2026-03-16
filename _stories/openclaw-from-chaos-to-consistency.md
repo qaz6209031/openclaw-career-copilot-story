@@ -1,3 +1,9 @@
+---
+title: OpenClaw Took Me from Career Chaos to Daily Consistency
+permalink: /stories/openclaw-from-chaos-to-consistency/
+description: "I used to confuse activity with progress."
+---
+
 # OpenClaw Took Me from Career Chaos to Daily Consistency
 
 I used to confuse activity with progress.

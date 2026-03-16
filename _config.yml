@@ -1,4 +1,16 @@
-title: Kai's Stories
-description: Medium stories by Kai
-permalink: /:slug
-theme: minima
+title: Kai's OpenClaw Stories
+description: Public story pages for Medium import and sharing
+url: "https://kaichin.dev"
+baseurl: "/openclaw-career-copilot-story"
+markdown: kramdown
+permalink: pretty
+collections:
+  stories:
+    output: true
+    permalink: /stories/:name/
+defaults:
+  - scope:
+      path: ""
+      type: "stories"
+    values:
+      layout: story

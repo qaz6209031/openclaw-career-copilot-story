@@ -1,6 +1,8 @@
 ---
 title: I Turned OpenClaw into My Daily Career Copilot (Step-by-Step)
 layout: page
+permalink: /stories/openclaw-career-copilot/
+description: "For a long time, I treated job searching like a side quest I kept postponing."
 ---
 
 # I Turned OpenClaw into My Daily Career Copilot (Step-by-Step)

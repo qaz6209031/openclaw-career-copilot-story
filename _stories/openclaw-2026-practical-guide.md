@@ -1,3 +1,9 @@
+---
+title: OpenClaw in 2026: A Practical Guide to What Actually Matters
+permalink: /stories/openclaw-2026-practical-guide/
+description: "OpenClaw has moved beyond “chatbot in a terminal.”"
+---
+
 # OpenClaw in 2026: A Practical Guide to What Actually Matters
 
 OpenClaw has moved beyond “chatbot in a terminal.”
